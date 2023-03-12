@@ -9,13 +9,11 @@ STEP 2: Open solution (MuonRoiSocialNetwork.sln)
 
 STEP 3: Go to "appssetting.json" then change "connectionString" to your connection
 
-STEP 4: Set startup MuonRoiSocialNetwork.Data
+STEP 4: Set startup MuonroiSocialNetwork
 
-STEP 5: Run command "update-database"
+STEP 5: Run command "update-database" (Tools - > NuGet Package Manager -> Package Manager Console)
 
-STEP 6: Set startup MuonroiSocialNetwork
-
-STEP 7: Run
+STEP 6: Run
 
 ## Project status
 For a world without loneliness ^^
